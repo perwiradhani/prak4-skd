@@ -41,7 +41,7 @@ def originalText(cipher_text, key):
 	
 # Driver code
 if __name__ == "__main__":
-	string = "RAMADHANI"
+	string = "PERWIRADZAKWANRAMADHANI"
 	keyword = "MADIUN"
 	key = generateKey(string, keyword)
 	cipher_text = cipherText(string,key)
