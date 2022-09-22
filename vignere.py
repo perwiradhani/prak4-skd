@@ -48,6 +48,3 @@ if __name__ == "__main__":
 	print("Ciphertext :", cipher_text)
 	print("Original/Decrypted Text :",
 		originalText(cipher_text, key))
-
-# This code is contributed
-# by Pratik Somwanshi
